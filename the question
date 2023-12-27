@@ -1,0 +1,15 @@
+Vraagstuk: dobbelstenen eerlijkheid - datapunt
+We gaan met python iets bewijzen, nl dat je met 2 dobbelstenen bepaalde waarden vaker gooit dan andere. Je zal bijvoorbeeld 7 veel vaker gooien dan 12.
+Zou je dat vooraf kunnen verklaren?
+Niveau 1:
+Maak 2 lists: noem de ene dobbelsteen 1 en de andere dobbelsteen 2
+Shuffle beide dobbelstenen en tel de eerste waarde van beiden bij elkaar op.
+Maak nu een lus waarin je 50 keer de dobbelstenen “werpt” en laat de uitkomsten in een list zien. Klopt het dat je bepaalde waarden vaker ziet dan andere?
+Niveau 2
+Zelfde als bij niveau 1 maar nu moet je met grote getallen werken. Voer 10000 worpen uit en voeg iedere uitkomst aan een nieuwe list toe.
+Probeer erachter te komen hoe je in die nieuwe list het aantal dubbele waarden kan tellen.
+Zodat je zoiets krijgt:
+Hmmm... lijkt wel een dictionary....
+Hoe zit het bij deze dobbelstenen?
+Als je goed hebt geprogrammeerd kun je dat in een handomdraai bepalen.
+Welke dobbelstenen set is "eerlijker"?
